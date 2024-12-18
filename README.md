@@ -36,8 +36,3 @@
 <div align="center">
     <h2>Contact Me : 📱</h2>
 </div>
-
-https://github.com/user-attachments/assets/0957398f-7a75-481a-bf11-f3f809dd0724
-
-
-
