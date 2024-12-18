@@ -12,19 +12,19 @@
         <tbody>
             <tr>
                 <td><a href="https://github.com/LaGuibole/LIBFT"><img src="/assets/libfte.png"></a></td>
-                <td>LIBFT 100 / 125 ✅</td>
+                <td align="center">LIBFT 100 / 125 ✅</td>
             </tr>
             <tr>
                 <td><a href="https://github.com/LaGuibole/LIBFT"><img src="/assets/ft_printfe.png"></a></td>
-                <td>FT_PRINTF 100 / 125 ✅</td>
+                <td align="center">FT_PRINTF 100 / 125 ✅</td>
             </tr>
             <tr>
                 <td><a href="https://github.com/LaGuibole/LIBFT"><img src="/assets/born2berootm.png"></a></td>
-                <td>BORN2BEROOT 120 / 125 ✅</td>
+                <td align="center">BORN2BEROOT 120 / 125 ✅</td>
             </tr>
             <tr>
                 <td><a href="https://github.com/LaGuibole/LIBFT"><img src="/assets/get_next_linem.png"></a></td>
-                <td>GET NEXT LINE 125 / 125 ✅</td>
+                <td align="center">GET NEXT LINE 125 / 125 ✅</td>
             </tr>
         </tbody>
     </table>
