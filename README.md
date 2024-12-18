@@ -1,41 +1,31 @@
 <div align="center">
     <h1>Hi, I'm Guillaume 👨‍💻</h1>
-<a href="https://github.com/oakoudad/badge42">
-<img src="https://badge.mediaplus.ma/colorfulwaves/guphilip?1337Badge=off&UM6P=off" alt="guphilip's 42 stats">
-</a>
+        <a href="https://github.com/oakoudad/badge42">
+        <img src="https://badge.mediaplus.ma/colorfulwaves/guphilip?1337Badge=off&UM6P=off" alt="guphilip's 42 stats">
+        </a>
 </div>
 <div align="center">
-    <table style="border:none;">
-        <thead>
-            <tr><h2>Completed 42 Projects ✅</h2></tr>
-        </thead>
+    <table>
+    <thead>
+        <tr><h2>Completed 42 Projects 🚀</h2></tr>
+    </thead>
         <tbody>
             <tr>
-                <td>
-                    <div align="center">
-                        <a href="https://github.com/LaGuibole/LIBFT">
-                            <img src="/assets/libfte.png">
-                        </a>
-                        <h3>LIBFT 100 / 125 ✅</h3>
-                    </div>
-                </td>
-                <td>
-                    <div align="center">
-                        <a href="https://github.com/LaGuibole/LIBFT">
-                            <img src="/assets/ft_printfe.png">
-                        </a>
-                        <h3>FT_PRINTF 100 / 125 ✅</h3>
-                    </div>
-                </td>
-                <td>
-                    <div align="center">
-                        <a href="https://github.com/LaGuibole/LIBFT">
-                            <img src="/assets/born2berootm.png">
-                        </a>
-                        <h3>BORN2BEROOT 120 / 125 ✅</h3>
-                    </div>
-                </td>
+                <td><a href="https://github.com/LaGuibole/LIBFT"><img src="/assets/libfte.png"></a></td>
+                <td>LIBFT 100 / 125 ✅</td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/LaGuibole/LIBFT"><img src="/assets/ft_printfe.png"></a></td>
+                <td>FT_PRINTF 100 / 125 ✅</td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/LaGuibole/LIBFT"><img src="/assets/born2berootm.png"></a></td>
+                <td>BORN2BEROOT 120 / 125 ✅</td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/LaGuibole/LIBFT"><img src="/assets/get_next_linem.png"></a></td>
+                <td>GET NEXT LINE 125 / 125 ✅</td>
             </tr>
         </tbody>
     </table>
-<div>
+</div>
