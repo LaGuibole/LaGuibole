@@ -1,6 +1,7 @@
 <div align="center">
     <h1>Hi, I'm Guillaume 👨‍💻</h1>
-        <a href="https://github.com/oakoudad/badge42">
+    <h4>Currently studying programming at 42 Le Havre 📍</h4>
+        <a href="https://www.linkedin.com/in/guillaume-philippe95/">
         <img src="https://badge.mediaplus.ma/colorfulwaves/guphilip?1337Badge=off&UM6P=off" alt="guphilip's 42 stats">
         </a>
 </div>
@@ -29,4 +30,10 @@
         </tbody>
     </table>
 </div>
+<div align="center">
+    <h2>Personal Projects : ❤️‍🔥</h2>
+</div>
+<div align="center">
+    <h2>Contact Me : 📱</h2>
 
+</div>
