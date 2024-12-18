@@ -1,7 +1,9 @@
 ## Hi there 👋
 <div align="center">
-  <h1>Hi, I'm Guillaume 👨‍💻</h1>
-  [![guphilip's 42 stats](https://badge.mediaplus.ma/colorfulwaves/guphilip?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+    <h1>Hi, I'm Guillaume 👨‍💻</h1>
+<a href="https://github.com/oakoudad/badge42">
+<img src="https://badge.mediaplus.ma/colorfulwaves/guphilip?1337Badge=off&UM6P=off" alt="guphilip's 42 stats">
+</a>
 </div>
 
 <!--
