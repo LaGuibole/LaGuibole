@@ -5,7 +5,7 @@
 </a>
 </div>
 <div align="center">
-    <table>
+    <table style="border:none;">
         <thead>
             <tr><h2>Completed 42 Projects ✅</h2></tr>
         </thead>
