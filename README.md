@@ -4,6 +4,7 @@
         <a href="https://www.linkedin.com/in/guillaume-philippe95/">
         <img src="https://badge.mediaplus.ma/colorfulwaves/guphilip?1337Badge=off&UM6P=off" alt="guphilip's 42 stats">
         </a>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <div align="center">
     <table>
