@@ -7,7 +7,7 @@
 <div align="center">
     <table>
     <thead>
-        <tr><h2>Completed 42 Projects 🚀</h2></tr>
+        <tr><h2>Completed 42 Projects 🚀</h2><h4><i>click on badge to view project 😉</i></h4></tr>
     </thead>
         <tbody>
             <tr>
@@ -29,3 +29,4 @@
         </tbody>
     </table>
 </div>
+
