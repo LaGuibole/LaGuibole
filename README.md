@@ -28,7 +28,7 @@
             </tr>
             <tr>
                 <td><a href="https://github.com/LaGuibole/get_next_line"><img src="/assets/get_next_linem.png"></a></td>
-                <td align="center">GET NEXT LINE 125 / 100 ✅🌟🌟</td>
+                <td align="center">🌟🌟 GET NEXT LINE 125 / 100 ✅</td>
             </tr>
         </tbody>
     </table>
