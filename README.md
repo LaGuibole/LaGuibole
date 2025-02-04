@@ -23,8 +23,8 @@
             <tr>
                 <td><a href="https://github.com/LaGuibole/ft_printf"><img src="/assets/ft_printfe.png"></a></td>
                 <td align="center">FT_PRINTF 100 / 100 ✅</td>
-                <td></td>
-                <td></td>
+                <td><a href="https://github.com/so_long"><img src="assets/so_longe.png"></a>/td>
+                <td align="center">SO_LONG WIP / 100 🔨</td>
             </tr>
             <tr>
                 <td><a href="https://github.com/LaGuibole/Born2BeRoot"><img src="/assets/born2berootm.png"></a></td>
