@@ -39,7 +39,7 @@
                 <td></td>
             </tr>
             <tr>
-                <td><a href="https://github.com/pipex"><img src="assets/pipexm.png"></a></td>
+                <td><a href="https://github.com/LaGuibole/Pipex"><img src="assets/pipexm.png"></a></td>
                 <td align="center">🌟 PIPEX 125 / 100 ✅</td>
                 <td></td>
                 <td></td>
