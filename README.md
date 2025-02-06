@@ -17,13 +17,13 @@
             <tr>
                 <td><a href="https://github.com/LaGuibole/LIBFT"><img src="/assets/libfte.png"></a></td>
                 <td align="center">LIBFT 100 / 100 ✅</td>
-                <td><a href="https://github.com/Push_Swap"><img src="assets/push_swape.png"></a></td>
+                <td><a href="https://github.com/LaGuibole/Push_Swap"><img src="assets/push_swape.png"></a></td>
                 <td align="center"> PUSH_SWAP WIP / 100 🔨</td>
             </tr>
             <tr>
                 <td><a href="https://github.com/LaGuibole/ft_printf"><img src="/assets/ft_printfe.png"></a></td>
                 <td align="center">FT_PRINTF 100 / 100 ✅</td>
-                <td><a href="https://github.com/So_Long"><img src="assets/so_longe.png"></a></td>
+                <td><a href="https://github.com/LaGuibole/So_Long"><img src="assets/so_longe.png"></a></td>
                 <td align="center">SO_LONG WIP / 100 🔨</td>
             </tr>
             <tr>
