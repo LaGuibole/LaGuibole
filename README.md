@@ -23,7 +23,7 @@
             <tr>
                 <td><a href="https://github.com/LaGuibole/ft_printf"><img src="/assets/ft_printfe.png"></a></td>
                 <td align="center">FT_PRINTF 100 / 100 ✅</td>
-                <td><a href="https://github.com/LaGuibole/So_Long"><img src="assets/so_longe.png"></a></td>
+                <td><a href="https://github.com/LaGuibole/So_Long"><img src="assets/so_longm.png"></a></td>
                 <td align="center">🌟🌟🌟 SO_LONG 125 / 100 ✅</td>
             </tr>
             <tr>
