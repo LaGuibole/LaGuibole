@@ -18,7 +18,7 @@
                 <td><a href="https://github.com/LaGuibole/LIBFT"><img src="/assets/libfte.png"></a></td>
                 <td align="center">LIBFT 100 / 100 ✅</td>
                 <td><a href="https://github.com/LaGuibole/Push_Swap"><img src="assets/push_swape.png"></a></td>
-                <td align="center"> PUSH_SWAP WIP / 100 🔨</td>
+                <td align="center"> PUSH_SWAP 100 / 100 ✅</td>
             </tr>
             <tr>
                 <td><a href="https://github.com/LaGuibole/ft_printf"><img src="/assets/ft_printfe.png"></a></td>
