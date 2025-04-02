@@ -29,8 +29,8 @@
             <tr>
                 <td><a href="https://github.com/LaGuibole/Born2BeRoot"><img src="/assets/born2berootm.png"></a></td>
                 <td align="center">BORN2BEROOT 120 / 100 ✅</td>
-                <td></td>
-                <td></td>
+                <td><a href="https://github.com/LaGuibole/Philosophers-"><img src="/assets/philosophers.png"></td>
+                <td>PHILOSOPHERS 100 / 100 ✅</td>
             </tr>
             <tr>
                 <td><a href="https://github.com/LaGuibole/get_next_line"><img src="/assets/get_next_linem.png"></a></td>
