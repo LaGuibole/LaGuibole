@@ -35,8 +35,8 @@
             <tr>
                 <td><a href="https://github.com/LaGuibole/get_next_line"><img src="/assets/get_next_linem.png"></a></td>
                 <td align="center">🌟🌟 GET NEXT LINE 125 / 100 ✅</td>
-                <td></td>
-                <td></td>
+                <td><a href="https://github.com/LaGuibole/minishell"><img src="assets/mishelle.png"></td>
+                <td align="center">🛠️ MINISHELL WIP / 100</td>
             </tr>
             <tr>
                 <td><a href="https://github.com/LaGuibole/Pipex"><img src="assets/pipexm.png"></a></td>
