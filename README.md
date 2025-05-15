@@ -41,8 +41,8 @@
             <tr>
                 <td><a href="https://github.com/LaGuibole/Pipex"><img src="assets/pipexm.png"></a></td>
                 <td align="center">🌟 PIPEX 125 / 100 ✅</td>
-                <td></td>
-                <td></td>
+                <td><a href="https://github.com/LaGuibole/"><img src="assets/netpracticem.png"></a></td>
+                <td align="center">🌟🌟 NETPRACTIVE 100 / 100 ✅</td>
             </tr>
         </tbody>
     </table>
