@@ -44,6 +44,12 @@
                 <td><a href="https://github.com/LaGuibole/"><img src="assets/netpracticem.png"></a></td>
                 <td align="center">🌟🌟 NETPRACTICE 100 / 100 ✅</td>
             </tr>
+              <tr>
+                <td><a href="https://github.com/LaGuibole/cub3d"><img src="assets/cub3de.png"></a></td>
+                <td align="center">CUB3D WIP / 100 🛠️</td>
+                <td><a href=""><img src=""></a></td>
+                <td align="center"></td>
+            </tr>
         </tbody>
     </table>
 </div>
