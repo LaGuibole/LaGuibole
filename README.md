@@ -47,7 +47,7 @@
               <tr>
                 <td><a href="https://github.com/LaGuibole/cub3d"><img src="assets/cub3dm.png"></a></td>
                 <td align="center">🌟 CUB3D 110 / 100 ✅</td>
-                <td><a href="https://github.com/LaGuibole/"><img src="assets/cppm.png"></a></td>
+                <td><a href="https://github.com/LaGuibole/cpp_pool"><img src="assets/cppm.png"></a></td>
                 <td align="center">CPP POOL WIP / 100 🛠️</td>
             </tr>
         </tbody>
