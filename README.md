@@ -50,6 +50,12 @@
                 <td><a href="https://github.com/LaGuibole/cpp_pool"><img src="assets/cppm.png"></a></td>
                 <td align="center">CPP POOL WIP / 100 🛠️</td>
             </tr>
+            <tr>
+                <td><a href="https://github.com/LaGuibole/ft_irc"><img src="assets/ft_ircm.png"></a></td>
+                <td align="center">🌟🌟🌟 IRC 125 / 100 ✅</td>
+                <td><a href="https://github.com/LaGuibole/"><img src=""></a></td>
+                <td align="center">FT_TRANSCENDANCE WIP / 100 🛠️</td>
+            </tr>
         </tbody>
     </table>
 </div>
