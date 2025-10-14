@@ -1,13 +1,15 @@
 <div align="center">
-    <h1>Hi, I'm Guillaume 👨‍💻</h1>
-    <h4>Currently studying programming at 42 Le Havre 📍</h4>
-        <a href="https://www.linkedin.com/in/guillaume-philippe95/">
-        <img src="https://badge.mediaplus.ma/colorfulwaves/guphilip?1337Badge=off&UM6P=off" alt="guphilip's 42 stats">
-        </a>
+  <h1>Hi, I'm Guillaume 👨‍💻</h1>
+  <h4>Currently studying programming at 42 Le Havre 📍</h4>
+  <a href="https://www.linkedin.com/in/guillaume-philippe95/">
+    <img src="https://badge.mediaplus.ma/colorfulwaves/guphilip?1337Badge=off&UM6P=off" alt="guphilip's 42 stats">
+  </a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=LaGuibole&color=blue" alt="Profile views">
 </div>
-      ![](https://komarev.com/ghpvc/?username=LaGuibole&color=blue)
+
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laguibole&layout=donut" alt="guphilip's 42 stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laguibole&layout=donut" alt="Top languages">
 </div>
 <div align="center">
     <table>
