@@ -36,20 +36,20 @@
 
 ### Unix & Kernel :
 
-- [libasm]() — Reimplementation of standard C library functions in x86-64 Assembly.
-- [kfs-1 & kfs-2]() — Development of a minimal kernel to explore low-level programming, operating system fundamentals and hardware interaction.  
+- [libasm](https://github.com/LaGuibole/libasm) — Reimplementation of standard C library functions in x86-64 Assembly.
+- [kfs-1 & kfs-2](https://github.com/LaGuibole/kfs-1) — Development of a minimal kernel to explore low-level programming, operating system fundamentals and hardware interaction.  
 
 ### System Administration :
 
-- [ft_ping]() — Reimplementation of ping to explore ICMP, raw sockets and network diagnostics.
-- [ft_traceroute] — Reimplementation of traceroute to analyze network paths using TTL and ICMP.
-- [BGP – At Doors of Autonomous Systems is Simple]() — Exploration of BGP routing, autonomous systems and inter-network communication.
-- [Inception of Things]() — Introduction to Kubernetes, K3s, Vagrant and infrastructure orchestration.  
+- [ft_ping](https://github.com/LaGuibole/ft_ping) — Reimplementation of ping to explore ICMP, raw sockets and network diagnostics.
+- [ft_traceroute](https://github.com/LaGuibole/ft_traceroute) — Reimplementation of traceroute to analyze network paths using TTL and ICMP.
+- [BGP – At Doors of Autonomous Systems is Simple](https://github.com/LaGuibole/Badass) — Exploration of BGP routing, autonomous systems and inter-network communication.
+- [Inception of Things](https://github.com/CodeWithCharles/42_IoT) — Introduction to Kubernetes, K3s, Vagrant and infrastructure orchestration.  
 
 ### Security :
 
-- [snow-crash]() — Introduction to Linux security, privilege escalation and exploitation of common vulnerabilities.
-- [darkly]() — Web security project focused on identifying and exploiting common web vulnerabilities.
-- [boot2root]() — Full-system penetration testing challenge involving reconnaissance, exploitation and privilege escalation.
-- [ft_malcolm]() — Network analysis and packet manipulation using ARP spoofing and traffic interception.
-- [ft_ssl_md5]() — Reimplementation of cryptographic hashing algorithms to explore data processing and cryptographic fundamentals.
+- [snow-crash](https://github.com/LaGuibole/SnowCrash) — Introduction to Linux security, privilege escalation and exploitation of common vulnerabilities.
+- [darkly](https://github.com/LaGuibole/darkly2.0) — Web security project focused on identifying and exploiting common web vulnerabilities.
+- [boot2root](https://github.com/LaGuibole/boot2root) — Full-system penetration testing challenge involving reconnaissance, exploitation and privilege escalation.
+- [ft_malcolm](https://github.com/LaGuibole/ft_malcolm) — Network analysis and packet manipulation using ARP spoofing and traffic interception.
+- [ft_ssl_md5](https://github.com/LaGuibole/ft_ssl_md5) — Reimplementation of cryptographic hashing algorithms to explore data processing and cryptographic fundamentals.
